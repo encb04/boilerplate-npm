@@ -4,6 +4,7 @@
 	"description": "A boilerplate for creating a Node.js app",
 	"keywords": ["freecodecamp", "boilerplate", "nodejs"],
 	"license": "MIT",
+	"version":"1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
